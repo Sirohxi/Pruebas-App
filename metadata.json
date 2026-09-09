@@ -1,0 +1,6 @@
+{
+  "name": "Tappi - Plataforma Digital de Movilidad",
+  "description": "Plataforma digital de movilidad para transporte colectivo y transporte de personal con gestión de pasajeros, conductores, rutas y panel empresarial.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

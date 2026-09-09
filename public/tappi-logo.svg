@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="100%" height="100%">
+  <!-- Top Tuft / Pom-pom strands -->
+  <g fill="#4A3184">
+    <path d="M 200 65 L 188 15 C 188 15 192 10 196 15 L 202 65 Z" />
+    <path d="M 200 65 L 200 5 C 200 5 204 5 204 5 L 205 65 Z" />
+    <path d="M 200 65 L 212 15 C 212 15 208 10 204 15 L 198 65 Z" />
+    <path d="M 175 40 L 225 40" stroke="#4A3184" stroke-width="8" stroke-linecap="round" />
+  </g>
+
+  <!-- Magenta Dome of Chullo -->
+  <path d="M 60 220 C 60 110 120 60 200 60 C 280 60 340 110 340 220 Z" fill="#AB2E81" />
+
+  <!-- Golden Zig-zag pattern on dome -->
+  <path d="M 65 170 
+           L 100 130 
+           L 150 180 
+           L 200 120 
+           L 250 180 
+           L 300 130 
+           L 335 170
+           L 338 195
+           L 300 155
+           L 250 205
+           L 200 145
+           L 150 205
+           L 100 155
+           L 62 195 Z" 
+        fill="#F3A81A" />
+
+  <!-- Ear flaps -->
+  <!-- Left ear flap -->
+  <path d="M 60 220 C 60 270 65 315 75 350 C 60 330 55 280 55 230 Z" fill="#AB2E81" />
+  <path d="M 60 220 Q 50 300 70 340 Q 60 345 58 355 C 56 365 65 375 68 385 L 68 400 L 62 400 L 62 385 C 55 375 48 355 50 330 C 50 290 55 240 60 220 Z" fill="#AB2E81" />
+  <!-- Left cord and golden pom-pom -->
+  <line x1="65" y1="390" x2="65" y2="425" stroke="#F3A81A" stroke-width="7" stroke-linecap="round" />
+  <circle cx="65" cy="435" r="18" fill="#F3A81A" />
+
+  <!-- Right ear flap -->
+  <path d="M 340 220 Q 350 300 330 340 Q 340 345 342 355 C 344 365 335 375 332 385 L 332 400 L 338 400 L 338 385 C 345 375 352 355 350 330 C 350 290 345 240 340 220 Z" fill="#AB2E81" />
+  <!-- Right cord and golden pom-pom -->
+  <line x1="335" y1="390" x2="335" y2="425" stroke="#F3A81A" stroke-width="7" stroke-linecap="round" />
+  <circle cx="335" cy="435" r="18" fill="#F3A81A" />
+
+  <!-- Main Map Pin Body (Deep Purple/Indigo) -->
+  <path d="M 70 245
+           L 70 310
+           C 70 350 110 440 200 570
+           C 290 440 330 350 330 310
+           L 330 245 Z" 
+        fill="#4A3184" />
+
+  <!-- Golden Headband Band -->
+  <rect x="50" y="220" width="300" height="36" rx="6" fill="#F3A81A" />
+
+  <!-- White Pin Hole -->
+  <circle cx="200" cy="355" r="54" fill="#FFFFFF" />
+</svg>
